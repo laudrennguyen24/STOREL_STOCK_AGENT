@@ -73,7 +73,3 @@ Interactive charts include:
 - Ensure the `vietfin` API and `yfinance` sources are accessible.
 
 ---
-
-## 📃 License
-
-MIT License
